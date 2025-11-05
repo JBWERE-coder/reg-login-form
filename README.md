@@ -12,14 +12,8 @@ Responsive design
 
 Clean and modern UI
 
-Files Structure
-text
-project/
-├── index.html      # Main HTML file with form structure
-├── style.css       # CSS styling for forms and layout
-├── script.js       # JavaScript for form functionality
-└── README.md       # Project documentation
 Implementation Details
+
 HTML: Creates the form structure with proper input fields
 
 CSS: Styles the forms with a clean, modern design
